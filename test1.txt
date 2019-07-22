@@ -1,0 +1,6 @@
+appdf.DOWN_PRO_INFO							= 1 									--下载进度
+appdf.DOWN_COMPELETED						= 3 									--下载结果
+appdf.DOWN_ERROR_PATH						= 4 									--路径出错
+appdf.DOWN_ERROR_CREATEFILE					= 5 									--文件创建出错
+appdf.DOWN_ERROR_CREATEURL					= 6 									--创建连接失败
+appdf.DOWN_ERROR_NET		 				= 7 									--下载失败
